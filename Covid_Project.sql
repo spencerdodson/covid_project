@@ -441,4 +441,4 @@ SELECT
 FROM
   `portfolio-projects-2022.covid_project.death_percent_continent`;
   
-  --- PROJECT FINISHED!!!! (pending visuals)
+  --- PROJECT FINISHED!!!!
